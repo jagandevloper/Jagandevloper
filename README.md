@@ -6,7 +6,7 @@
    <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
   Hi, I'm <strong>Jagan S</strong>
 </h1>
-h1>
+
 
 
 <h3>Backend-Focused Full Stack Developer | FastAPI • MERN • AWS • AI</h3>
